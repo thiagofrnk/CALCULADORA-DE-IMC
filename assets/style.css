@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.container{
+    margin:  20px 0 0 0;
+    display: grid;
+    justify-content: center;
+    align-items: center;
+}
+
+#peso,
+#metros{
+    margin: 0px 0 10px 0 ;
+    border: 1px solid rgb(77, 123, 232);
+    border-radius: 20px;
+    padding: 10px;
+}
+
+
+
+button{
+    background-color: rgb(77, 123, 232);
+    color: aliceblue;
+    border: none;
+    border-radius: 20px;
+    padding: 10px;
+}
+
+span{
+    color: red;
+    margin: 10px 0 0 20%;
+}
